@@ -1,2 +1,2 @@
 # dicee-game
-Dicee Game [London app bravery challenge)
+Dicee Game [London App Brewery challenge)
